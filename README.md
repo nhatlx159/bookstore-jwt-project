@@ -9,6 +9,5 @@ validate register
 - username > 6 characters
 - password > 6 characters
 - phone > 8 numbers
-require all
 
 if you create account, this account defaulted user role
