@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin-top: 30px;
+    transition: 1s;
+    width: 250px;
+    height: 420px;
+    position: relative;
+    z-index: 2;
+    border-radius: 10px;
+}
+.container .tren{
+    top: 0;
+    left: 0;
+    width: 249px;
+    height: 279px;
+    position: absolute;
+    border-bottom: 1px solid gray;
+    z-index: 1;
+}
+.container .tren img{
+    top: 0;
+    left: 0;
+    width: 248px;
+    height: 278px;
+    border-radius: 10px;
+}
+.container .duoi{
+    position: absolute;
+    width: 248px;
+    height: 139px;
+    top: 279px;
+    left: 0px;
+    z-index: 1;
+}
+.container .duoi .productname{
+    display: block;
+    width: 124px;
+    border-right: 1px solid black;
+    padding: auto;
+    float: left;
+    text-align: center;
+    font-weight: 500;
+}
+.container .duoi .productprice{
+    display: block;
+    padding: auto;
+    text-align: center;
+    font-weight: 500;
+}
+.container .duoi .description{
+    display: inline-block;
+    margin: 3px 5px;
+}
+.container .duoi .btn-pr{
+    margin: 10px 5px;
+}
+.container .duoi .btn-pr .btn-danger{
+    margin-left: 5px;
+}
+.container .duoi .btn-pr .btn-warning{
+    margin-left: 8px;
+}
+
+.container:hover{
+    opacity: 1;
+    box-shadow: 5px 10px 18px black;
+}

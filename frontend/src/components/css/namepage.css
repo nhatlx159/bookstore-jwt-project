@@ -1,0 +1,15 @@
+.namepage{
+    font-family: "Segoe ui light";
+    text-align: center;
+    margin: auto;
+    font-weight: 500;
+}
+.classify{
+    font-weight: 300;
+    text-align: left;
+    margin-left: 30px;
+    font-family: "Segoe ui light";
+}
+.fa-check {
+    color: rgb(25, 216, 25);
+}

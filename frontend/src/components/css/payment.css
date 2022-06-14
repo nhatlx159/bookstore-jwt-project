@@ -1,0 +1,15 @@
+h3{
+    display: block;
+    text-align: center;
+}
+.order_cpn{
+    border: 1px solid gray;
+    width: 90%;
+}
+.alert{
+    font-style: italic;
+    color: red;
+}
+small{
+    display: block;
+}

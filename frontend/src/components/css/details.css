@@ -1,0 +1,16 @@
+.details{
+    font-family: "segoe ui light";
+}
+.details .description h1{
+    display: block;
+    text-align: center;
+    font-weight: 500;
+}
+.arrow-store{
+    text-decoration: none;
+    display: block;
+}
+.arrow-store:hover{
+    text-decoration: none;
+    color: black;
+}

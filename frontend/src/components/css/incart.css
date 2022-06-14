@@ -1,0 +1,36 @@
+.cart{
+    margin-top: 40px;
+}
+.cart .row1{
+    height: 30px;
+    width: 100%;
+    border-bottom: 1px black;
+    text-align: center;
+}
+.cart .row2{
+    text-align: center;
+    align-items: center;
+}
+.col-2 button{
+    height: 30px;
+    width: 30px;
+    margin: 0px 10px;
+}
+.col-3 img{
+    width: 80px;
+    height: 80px;
+}
+.arrow-shopping{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 30px;
+}
+.arrow-shopping:hover{
+    text-decoration: none;
+    color: black;
+}
+.total{
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-right: 50px;
+}
