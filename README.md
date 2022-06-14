@@ -11,3 +11,4 @@ validate register
 - phone > 8 numbers
 require all
 
+if you create account, this account defaulted user role
